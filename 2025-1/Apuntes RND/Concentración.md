@@ -20,4 +20,4 @@
 
 
 
-anterior: [[Meta-aprendisaje]]                 Siguiente: [[diligencia]]
+anterior: [[Meta-aprendisaje]]                 Siguiente: [[Diligencia]]

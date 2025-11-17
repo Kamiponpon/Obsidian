@@ -1,7 +1,7 @@
 ## C1:
 * intro a C
-* [[Funciones y arreglos]]
-* [[punteros]]
+* [[Funciones y Arreglos]]
+* [[Punteros]]
 * [[Memoria]]
 * [[Estructuras]]
 * [[Listas]]
