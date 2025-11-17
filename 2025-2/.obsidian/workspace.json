@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "b624e9bfed724a8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4078648b3c18b49d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbf5e83ca4ea3471",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "as5600 Analisis/Libreria As5600.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Libreria As5600"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3400f03f7b3c54f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d054a3a73d9b682a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b14c17167b9341f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "38881d290af0b5e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4648bf329cc6384e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c12ef96731ac86a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b9e2fffa5b5cef9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78bb83bebe97ce55",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SO/T3/Apuntes de Docker.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Apuntes de Docker"
+            }
+          },
+          {
+            "id": "d82b21d1daa7e54d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SO/T3/Apuntes de Docker.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Apuntes de Docker"
+            }
+          },
+          {
+            "id": "4c3324e7a42b389c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2cb03f90cb90d24d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SO/T3/Apuntes de Docker.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Apuntes de Docker"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "cbf5e83ca4ea3471",
+  "lastOpenFiles": [
+    "as5600 Analisis/Untitled 1.md",
+    "as5600 Analisis/Libreria As5600.md",
+    "Driver8323 analisis/asdasd.md",
+    "IMAGES/Pasted image 20251114010842.png",
+    "as5600 Analisis",
+    "IMAGES",
+    "IMAGES/Pasted image 20251114010609.png",
+    "IMAGES/Pasted image 20251114010534.png",
+    "IMAGES/Pasted image 20251113212815.png",
+    "Driver8323 analisis/DRV8323 datasheet.md",
+    "Driver8323 analisis/Notas C++.md",
+    "Driver8323 analisis/drv82323.cc (moteus).md",
+    "IMAGES/Pasted image 20251114113814.png",
+    "Welcome.md",
+    "SO/T3/Apuntes de Docker.md",
+    "Driver8323 analisis",
+    "SO/T3",
+    "SO"
+  ]
+}
